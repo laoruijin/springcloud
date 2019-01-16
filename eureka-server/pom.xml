@@ -61,16 +61,9 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
 					<!-- 指定该Main Class为全局的唯一入口 -->
-					<mainClass>com.eureka.eurekaserver.EurekaServerApplication</mainClass>
-					<layout>ZIP</layout>
+					<fork>true</fork>
+					<skip>true</skip>
 				</configuration>
-				<executions>
-					<execution>
-						<goals>
-							<goal>repackage</goal><!--可以把依赖的包都打包到生成的Jar包中-->
-						</goals>
-					</execution>
-				</executions>
 			</plugin>
 		</plugins>
 	</build>
