@@ -8,7 +8,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="eureka-server" />
         <module name="hello-service" />
-        <module name="method" />
         <module name="provider-server" />
         <module name="springCloudInfo" />
       </profile>

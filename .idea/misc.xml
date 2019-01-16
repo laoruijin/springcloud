@@ -11,7 +11,6 @@
         <option value="$PROJECT_DIR$/hello-service/pom.xml" />
         <option value="$PROJECT_DIR$/provider/pom.xml" />
         <option value="$PROJECT_DIR$/provider-server/pom.xml" />
-        <option value="$PROJECT_DIR$/../../method/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

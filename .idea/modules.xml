@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../method/method.iml" filepath="$PROJECT_DIR$/../../method/method.iml" />
       <module fileurl="file://$PROJECT_DIR$/provider-server/provider-server.iml" filepath="$PROJECT_DIR$/provider-server/provider-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/springCloudInfo.iml" filepath="$PROJECT_DIR$/springCloudInfo.iml" />
     </modules>
